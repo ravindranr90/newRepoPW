@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "gitactions_wdsep",
+=======
+  "name": "git_actions_july",
+>>>>>>> 0fca546e281c1d9c6f2fa839371f1084721c34e1
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +11,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "commonjs",
   "devDependencies": {
     "@playwright/test": "^1.56.1",
     "@types/node": "^24.10.1"
+=======
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+>>>>>>> 0fca546e281c1d9c6f2fa839371f1084721c34e1
   }
 }
